@@ -1,0 +1,2 @@
+H:\DP\VisualStudio2017\StoreWithFileSys\StoreWithFileSys\StoreWithFileSys.UWP\StoreWithFileSys.UWP.csproj;x86
+H:\DP\VisualStudio2017\StoreWithFileSys\StoreWithFileSys\StoreWithFileSys\StoreWithFileSys.csproj;neutral
